@@ -44,10 +44,6 @@ class board
 ***Will take a player and column number as arguments and will fill the lowest avaiable space said column with a disc
 corresponding to said player if possible. If the column is filled then an error msg is displayed and the player must
 select another column
-
-*private methods
-**filled
-***Will check if the column is filled and return true is yes
 **winner?
 ***Will check if there is a winner or if the grid is filled
 
